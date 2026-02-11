@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rodrigo Ricardo
 
-<!--
-**RodrigoRicardoAlves/RodrigoRicardoAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software com mais de **13 anos de experiência**, unindo a precisão do baixo nível com a agilidade do desenvolvimento web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 No que trabalho hoje:
+* **Web:** Python (Flask, Django) e JavaScript.
+* **Embedded:** Especialista em Microchip, Espressif (ESP32, ESP8266) e FreeRTOS.
+
+### 📜 Minha trajetória:
+* **Desde 2011:** Atuando com microcontroladores e sistemas embarcados.
+* **Formação:** Técnico em Eletrônica (a base de tudo!).
+* **Evolução:** Transição sólida de sistemas de hardware para aplicações web escaláveis.
+
+### 🛠️ Tecnologias e Ferramentas:
+- **Linguagens:** Python, JavaScript, C/C++.
+- **Frameworks/Libs:** Django, Flask, FreeRTOS.
+- **Hardware:** ESP32, ESP8266, Família Microchip.
+
+---
+
+> *Apaixonado por performance, seja em um microcontrolador de poucos KB ou em uma aplicação web moderna.*
