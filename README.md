@@ -27,10 +27,9 @@ mostra o resultado na tela do celular de alguém.
 ### 🛠️ O que eu já coloquei no mundo
 
 **🐎 Cavalos, cronômetros e muita gente olhando o placar**
-Boa parte do meu trabalho é no meio equestre. Fiz o firmware de cronometragem
-e fotocélulas da **[HorseTime](https://www.horsetime.com.br)** e as plataformas que
-cuidam do evento inteiro, da inscrição ao ranking: **[RSNC Brasil](https://rsnc.com.br)**
-(Ranch Sorting) e **[Portal Horse](https://portalhorse.com.br)**. Tem sorteio, pagamento,
+Boa parte do meu trabalho é no meio equestre. Fiz o firmware de equipamentos de
+cronometragem e fotocélulas, e plataformas que cuidam do evento inteiro, da inscrição
+ao ranking, para provas como Ranch Sorting, tambor e baliza. Tem sorteio, pagamento,
 aviso por WhatsApp e cronometragem ao vivo no telão. Quando o cavalo cruza a
 fotocélula, o tempo aparece na hora. Quando não aparece, adivinha quem recebe a ligação. 😅
 
@@ -40,19 +39,18 @@ para bares: o garçom lança o pedido, a cozinha imprime, e tudo continua funcio
 mesmo sem internet. Quando o sinal volta, sincroniza sem duplicar nada. Código aberto. 🔓
 
 **⚙️ Equipamentos de verdade**
-Firmware do voltímetro e amperímetro das máquinas de solda da
-**[Atron Soldas](https://www.atronsoldas.com.br)**. Aqui não tem "funciona na minha
-máquina": tem faísca, corrente alta e cliente esperando.
+Firmware do voltímetro e amperímetro de máquinas de solda industriais.
+Aqui não tem "funciona na minha máquina": tem faísca, corrente alta e cliente esperando.
 
 **🌐 Sites e sistemas para quem precisa vender e organizar**
-- **[Foltech](https://foltech.com.br)**: site de aditivos agrícolas com catálogo gerenciado pelo cliente
-- **[Aura Imports](https://perfumesarabesaura.com.br)**: catálogo online de perfumes árabes
-- **[Tybis Hotelaria](https://github.com/RodrigoRicardoAlves/tybis_hotelaria)**: gestão de hospedagem de longa estadia, controlando cama por cama
+- Site institucional de uma empresa de aditivos agrícolas, com catálogo que o próprio cliente atualiza
+- Catálogo online de uma loja de perfumes árabes importados
+- Sistema de hospedagem de longa estadia para hotel que recebe equipes de empresas, controlando cama por cama
 
 **📼 Do baú (empresas que já fecharam, mas os projetos foram bons demais para esquecer)**
-- **Volta Animal**: bichos de pelúcia motorizados para passear no shopping, pagos por tempo.
+- **Bichos de pelúcia motorizados**: para a criançada passear no shopping, pagos por tempo.
   Fiz placa, firmware, rádio WiFi, software de gestão e até o desenho mecânico. Sim, eu já dei vida a um leão. 🦁
-- **Green Hotel**: sensores WiFi monitorando a temperatura das caldeiras, para nenhum hóspede tomar banho frio. 🚿
+- **Caldeiras de hotel**: sensores WiFi monitorando a temperatura das caldeiras, para nenhum hóspede tomar banho frio. 🚿
 - **Emissor de NFS-e**: emissão de nota fiscal de serviço com certificado digital, em Flask.
 
 ---
