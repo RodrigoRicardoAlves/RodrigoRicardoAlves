@@ -64,6 +64,12 @@ Aqui não tem "funciona na minha máquina": tem faísca, corrente alta e cliente
 | FreeRTOS · MQTT | MariaDB · MySQL · Redis |
 | Desenho de placa · SolidWorks | Linux · Nginx · APIs REST |
 
+**🤖 E o divisor de águas: [Claude Code](https://claude.com/claude-code), da Anthropic.**
+Virou meu parceiro de bancada. Eu chego com a ideia, as regras do negócio e os anos
+de calo na mão; ele chega com velocidade para escrever, revisar e testar o código.
+Projetos que antes levavam meses agora saem em semanas, e sobra tempo para o que
+eu mais gosto: entender o problema do cliente e ver a coisa funcionando no mundo real.
+
 ---
 
 <div align="center">
